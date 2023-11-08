@@ -31,6 +31,7 @@ mpresa: 9 XXXXXXXX
 Forma de Pago                    Importe
 PESOS                          $7,000.00
 ---------------*****---------------
+
 ----------------*****----------------
      xxxxxxx             ORIGINAL
 Maquina: xxxxxx
@@ -46,6 +47,8 @@ Fecha: 06/11/2023         Hora: 19:33:40
 mpresa: 2 XXXXXXXX
 Forma de Pago                    Importe
 PESOS                          $800
+----------------*****----------------
+
 ---------------*****---------------
      xxxxxxx             ORIGINAL
 Maquina: xxxxxx
