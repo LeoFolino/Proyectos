@@ -1,0 +1,8 @@
+setup.py
+Segunda_pre_entrega_Folino.egg-info/PKG-INFO
+Segunda_pre_entrega_Folino.egg-info/SOURCES.txt
+Segunda_pre_entrega_Folino.egg-info/dependency_links.txt
+Segunda_pre_entrega_Folino.egg-info/top_level.txt
+paquete/__init__.py
+paquete/clientes.py
+paquete/primera.py
